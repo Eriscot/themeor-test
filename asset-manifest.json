@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/themeor-test/static/css/main.5f361e03.chunk.css",
+    "main.js": "/themeor-test/static/js/main.6c7ba8eb.chunk.js",
+    "main.js.map": "/themeor-test/static/js/main.6c7ba8eb.chunk.js.map",
+    "runtime-main.js": "/themeor-test/static/js/runtime-main.f4510d9f.js",
+    "runtime-main.js.map": "/themeor-test/static/js/runtime-main.f4510d9f.js.map",
+    "static/css/2.0fec355f.chunk.css": "/themeor-test/static/css/2.0fec355f.chunk.css",
+    "static/js/2.6821af7c.chunk.js": "/themeor-test/static/js/2.6821af7c.chunk.js",
+    "static/js/2.6821af7c.chunk.js.map": "/themeor-test/static/js/2.6821af7c.chunk.js.map",
+    "index.html": "/themeor-test/index.html",
+    "precache-manifest.4d7dc2970b4c8791d895817558e043c7.js": "/themeor-test/precache-manifest.4d7dc2970b4c8791d895817558e043c7.js",
+    "service-worker.js": "/themeor-test/service-worker.js",
+    "static/css/2.0fec355f.chunk.css.map": "/themeor-test/static/css/2.0fec355f.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/themeor-test/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.6821af7c.chunk.js.LICENSE.txt": "/themeor-test/static/js/2.6821af7c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f4510d9f.js",
+    "static/css/2.0fec355f.chunk.css",
+    "static/js/2.6821af7c.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.6c7ba8eb.chunk.js"
+  ]
+}
